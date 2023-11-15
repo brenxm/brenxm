@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brenxm
-- 👀 I’m interested in game visual designs and logic
-- 🌱 I’m currently learning basic computer science
-- 💞️ I’m looking to collaborate on developing my first indie game
+- 👀 I’m interested in UI/UX designs, technical art production and backend stuff
+- 🌱 I’m a self taught developer and still learning
+- 💞️ I’m looking forward to landing my first ever job in the industry
 - 📫 You can reach me at brymina18@yahoo.com
 
 <!---
