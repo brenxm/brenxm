@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brenxm
-- 👀 I’m interested in UI/UX designs, technical art production and backend stuff
+- 👀 I'm interested in full stack development
 - 🌱 I’m a self taught developer and still learning
 - 💞️ I’m looking forward to landing my first ever job in the industry
 - 📫 You can reach me at brymina18@yahoo.com
